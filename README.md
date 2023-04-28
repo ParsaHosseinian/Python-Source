@@ -2,7 +2,7 @@
 
 In this repository we intend to compile a complete classified **Python boklet**.
 
-![Python](\assets\images\python.jpg"python")
+![Python](python.jpg)
 
 ## :heavy_check_mark: Authors
 

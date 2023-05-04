@@ -59,6 +59,15 @@ print(A)
 print("===========")
 print(my_list_words)
 
+# the result is:
+
+# ['Python', 'is', 'still', 'cool', '!']
+# ===========
+# ['Python', 'is', 'still', 'cool', '!']
+
+
+# You can get around this by creating new list:
+
 
 original = [1, 2, 3]
 modified = list(original)  # Note list() 

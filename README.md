@@ -43,8 +43,3 @@ This course is meticulously organized into 13 chapters, taking you from absolute
 
 ## Why This Course? 🤔
 Because it’s about time you had a course that makes you feel like you’re learning Python, not just getting lost in it! The course is designed so you can work at your own pace, with everything you need to go from beginner to pro 😇
-
----
-
-## Contact Us 📞
-Questions? Problems? Reach out to me through Telegram (link available on my GitHub profile) 😎
